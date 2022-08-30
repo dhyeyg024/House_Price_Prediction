@@ -3,5 +3,7 @@ A Data Science project where I have made a ML model to predict the price of the 
 
 In Project Folder 
 ---> there is a 'model' folder under which there is a Dataset, code to build model(jupyter notebook), ML model and one JSON file is present.
+
 ---> there is a "client" folder under which the files contining html, css and js code is present.
+
 ---> there is a 'server' folder under which code of Flask is executed. 
